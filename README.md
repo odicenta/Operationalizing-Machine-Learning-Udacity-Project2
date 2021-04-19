@@ -8,7 +8,7 @@ An AutoML model is created based on the Bank Marketing dataset, and the best mod
 
 Then a pipeline is created and also deployed, and all is checked against the rubric.
 
-A screencast showing the architecture and the different models and endpoints in the Azure Studio is shown at the following location: [Udacity-AzureML_project2](https://youtu.be/WRcBkJeVtV4)
+A **screencast** showing the architecture and the different models and endpoints in the Azure Studio is shown at the following location: [Udacity-AzureML_project2](https://youtu.be/WRcBkJeVtV4)
 
 And the following diagram provides the architecture followed during the process to obtain the end result:
 ![Architecture Diagram](./resources/AzureML_Project2.png]
