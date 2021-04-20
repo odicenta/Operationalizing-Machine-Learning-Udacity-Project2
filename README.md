@@ -36,7 +36,7 @@ The first step is to register the dataset that will be used by the AutoML proces
 The dataset Bank marketing consists on data pertaining to a marketing campaign that determines if a customer contacted by the campaign will contract the product or not. 
 ![dataset](./resources/DEM_1.png)
 
-AutoML is run using the dataset, and the best model is used as the candidate to be deployed. In this case the model is a VOtingEnsemble model with an accuracy of about 92%.
+AutoML is run using the dataset, and the best model is used as the candidate to be deployed. In this case the model is a VotingEnsemble model with an accuracy of about 92%.
 ![experiment completed](./resources/DEM_2.png)
 
 Different models have been run, as it can be seen in the following image. The ensemble models seem to be the ones performing best among all.
